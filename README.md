@@ -18,7 +18,7 @@
 
 ### Contributions
 
-![su3-hokkaido's GitHub stats](https://github-readme-stats.vercel.app/api?username=su3-hokkaido&count_private=true&show_icons=true&theme=radical)
+![su3-hokkaido's GitHub stats](https://github-readme-stats.vercel.app/api?username=su3-hokkaido\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su3-hokkaido&exclude_repo=studyProgram,instruction_manual_yourself,su3-hokkaido.me,easybooks-Re-VIEW-Template,mazrica-techbook8,decomoji,ryo-obsidian,hugo-blog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
